@@ -35,7 +35,7 @@ ToDo
 
 ## Font used
 
-To allow for ISO 3098 conformity, the font used is (osifont)[https://github.com/hikikomori82/osifont].
+To allow for ISO 3098 conformity, the font used is [osifont](https://github.com/hikikomori82/osifont).
 
 ## How to use
 
