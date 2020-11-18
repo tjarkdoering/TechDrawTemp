@@ -59,3 +59,4 @@ ToDo
 ## Future ideas
 
 * Have a script/program to generate the template
+  * sizes and languages
