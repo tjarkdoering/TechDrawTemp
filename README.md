@@ -55,6 +55,9 @@ ToDo
 - [ ] A2 (ENG/GER)
   - [ ] landscape
   - [ ] portrait
+- [ ] A1 (ENG/GER)
+  - [ ] landscape
+  - [ ] portrait
 
 ## Future ideas
 
