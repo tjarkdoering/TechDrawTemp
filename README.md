@@ -12,7 +12,7 @@ Since I am not happy with the standard ones, I created my own.
 
 ### DIN EN ISO 7200
 
-There are eight mandatory fiedls:
+There are eight mandatory fields:
 1. Legitimate owner (i.e. Company)
 2. Part number
 3. Issue date
@@ -51,15 +51,13 @@ ToDo
   - [ ] portrait
 - [ ] A3 (ENG/GER)
   - [ ] landscape
-  - [ ] portrait
 - [ ] A2 (ENG/GER)
   - [ ] landscape
-  - [ ] portrait
 - [ ] A1 (ENG/GER)
   - [ ] landscape
-  - [ ] portrait
 
 ## Future ideas
 
 * Have a script/program to generate the template
-  * sizes and languages
+* A little GUI for costomizing the fields of the data fields
+
