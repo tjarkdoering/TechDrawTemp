@@ -55,6 +55,7 @@ ToDo
   - [ ] landscape
 - [ ] A1 (ENG/GER)
   - [ ] landscape
+- [ ] Template for bill of materials
 
 ## Future ideas
 
