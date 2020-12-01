@@ -2,6 +2,7 @@
 
 Templates for creating drawings in FreeCAD.
 Since I am not happy with the standard ones, I created my own.
+For a guide on how to make templates for FreeCAD, check out the [official guide](https://wiki.freecadweb.org/TechDraw_TemplateHowTo).
 
 ## Requirements
 
