@@ -33,6 +33,7 @@ ToDo
   * DIN ISO 2768-mK (general tolerances)
   * DIN ISO 13715 (edges)
   * DIN ISO 1302 (surface)
+* Symbol for projection method (1 or 3)
 
 ## Font used
 
